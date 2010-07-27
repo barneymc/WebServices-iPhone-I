@@ -1,0 +1,8 @@
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Debug\Phone.dll
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Debug\Phone.pdb
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\bin\Phone.dll
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\bin\Phone.pdb
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Release\Phone.dll
+D:\Documents and Settings\bmcardle\My Documents\Visual Studio 2005\Projects\Phone\Phone\obj\Release\Phone.pdb
